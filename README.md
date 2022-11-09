@@ -1,0 +1,1 @@
+AQA CI [![Build status](https://ci.appveyor.com/api/projects/status/pyxq0c3ox2xgevj3?svg=true)](https://ci.appveyor.com/project/greyear/aqa-ci)
